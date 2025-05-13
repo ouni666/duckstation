@@ -18,3 +18,5 @@
 8.extra-cmake-modules
 
 9.qt-6
+
+10.shaderc
