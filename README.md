@@ -9,22 +9,6 @@
 
 4.加入plutosvg依赖 请手动安装 https://github.com/sammycage/plutosvg  需要静态文件 如果构建系统清理静态依赖 需修改配置 全平台通用库
 
-5.加入discord-rpc依赖 请手动安装 https://github.com/azahar-emu/discord-rpc 全平台通用库
-暂时遇到报错discord-rpc没有配置文件 先记录 后续再改
-CMake Error at CMakeModules/DuckStationDependencies.cmake:21 (find_package):
-  By not providing "FindDiscordRPC.cmake" in CMAKE_MODULE_PATH this project
-  has asked CMake to find a package configuration file provided by
-  "DiscordRPC", but CMake did not find one.
+5.加入discord-rpc依赖 请手动安装 https://github.com/stenzek/discord-rpc 需要静态文件 如果构建系统清理静态依赖 需修改配置 
 
-  Could not find a package configuration file provided by "DiscordRPC"
-  (requested version 3.4.0) with any of the following names:
-
-    DiscordRPCConfig.cmake
-    discordrpc-config.cmake
-
-  Add the installation prefix of "DiscordRPC" to CMAKE_PREFIX_PATH or set
-  "DiscordRPC_DIR" to a directory containing one of the above files.  If
-  "DiscordRPC" provides a separate development package or SDK, be sure it has
-  been installed.
-Call Stack (most recent call first):
-  CMakeLists.txt:32 (include)
+6.加入soundtouch依赖 请手动安装 https://github.com/stenzek/soundtouch 需要静态文件 如果构建系统清理静态依赖 需修改配置 
