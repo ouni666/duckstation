@@ -7,4 +7,4 @@
 
 3.加入sd3依赖 请手动安装 https://github.com/libsdl-org/SDL
 
-4.加入plutosvg依赖 请手动安装 https://github.com/sammycage/plutosvg
+4.加入plutosvg依赖 请手动安装 https://github.com/sammycage/plutosvg  需要静态文件 如果构建系统清理静态依赖 需修改配置
