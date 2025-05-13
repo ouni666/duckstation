@@ -7,6 +7,6 @@
 
 3.加入sd3依赖 请手动安装 https://github.com/libsdl-org/SDL
 
-4.加入plutosvg依赖 请手动安装 https://github.com/sammycage/plutosvg  需要静态文件 如果构建系统清理静态依赖 需修改配置
+4.加入plutosvg依赖 请手动安装 https://github.com/sammycage/plutosvg  需要静态文件 如果构建系统清理静态依赖 需修改配置 全平台通用库
 
-5.加入discord-rpc依赖 请手动安装 https://github.com/azahar-emu/discord-rpc
+5.加入discord-rpc依赖 请手动安装 https://github.com/azahar-emu/discord-rpc 全平台通用库
