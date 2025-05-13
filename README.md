@@ -19,4 +19,4 @@
 
 9.qt-6
 
-10.shaderc
+10.加入shaderc依赖   https://github.com/stenzek/shaderc
