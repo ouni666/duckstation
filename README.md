@@ -12,3 +12,9 @@
 5.加入discord-rpc依赖 请手动安装 https://github.com/stenzek/discord-rpc 需要静态文件 如果构建系统清理静态依赖 需修改配置 
 
 6.加入soundtouch依赖 请手动安装 https://github.com/stenzek/soundtouch 需要静态文件 如果构建系统清理静态依赖 需修改配置 
+
+7.libzip
+
+8.extra-cmake-modules
+
+9.qt-6
