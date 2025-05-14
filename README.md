@@ -22,3 +22,22 @@
 10.加入shaderc依赖                                    https://github.com/stenzek/shaderc
 
 11.加入spirv-cross依赖        注意aosc系统构建要求（_下划线改-）                        https://github.com/KhronosGroup/SPIRV-Cross
+
+CMake Error at CMakeModules/DuckStationDependencies.cmake:47 (find_package):
+  By not providing "Findspirv_cross_c_shared.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "spirv_cross_c_shared", but CMake did not find one.
+
+  Could not find a package configuration file provided by
+  "spirv_cross_c_shared" with any of the following names:
+
+    spirv_cross_c_sharedConfig.cmake
+    spirv_cross_c_shared-config.cmake
+
+  Add the installation prefix of "spirv_cross_c_shared" to CMAKE_PREFIX_PATH
+  or set "spirv_cross_c_shared_DIR" to a directory containing one of the
+  above files.  If "spirv_cross_c_shared" provides a separate development
+  package or SDK, be sure it has been installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:32 (include)
+
