@@ -1,4 +1,4 @@
-尝试支持loongarch64
+尝试支持loongarch64     尝试在aosc os上编译生成 https://aosc.io/
 
 
 1.先去链接安装cpuinfo loongarch64的cpuinfo补丁地址： https://github.com/MQ-mengqing/cpuinfo/tree/loongarch_support 需要静态文件 如果构建系统清理静态依赖 需修改配置
