@@ -20,3 +20,5 @@
 9.qt-6
 
 10.加入shaderc依赖   https://github.com/stenzek/shaderc
+
+11.加入spirv_cross依赖   https://github.com/KhronosGroup/SPIRV-Cross
