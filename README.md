@@ -21,4 +21,4 @@
 
 10.加入shaderc依赖                                    https://github.com/stenzek/shaderc
 
-11.加入spirv_cross依赖                                https://github.com/KhronosGroup/SPIRV-Cross
+11.加入spirv-cross依赖        注意aosc系统构建要求（_下划线改-）                        https://github.com/KhronosGroup/SPIRV-Cross
