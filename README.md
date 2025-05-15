@@ -1,5 +1,8 @@
 尝试支持loongarch64     尝试在aosc os上编译生成 https://aosc.io/
 
+使用aosc 的自动构建系统构建 abbs树地址 https://github.com/AOSC-Dev/aosc-os-abbs
+
+树配套配置文件见配套资源
 
 1.先去链接安装cpuinfo loongarch64的cpuinfo补丁地址：   https://github.com/MQ-mengqing/cpuinfo/tree/loongarch_support 需要静态文件 如果构建系统清理静态依赖 需修改配置  构建系统保留静态文件命令 NOSTATIC=0
 
