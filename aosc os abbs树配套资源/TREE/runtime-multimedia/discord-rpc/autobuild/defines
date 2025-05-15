@@ -1,0 +1,8 @@
+PKGNAME=discord-rpc
+PKGSEC=graphics
+PKGDEP=""
+BUILDDEP=rapidjson""
+PKGDES="discord-rpc"
+
+ABHOST=noarch
+NOSTATIC=0

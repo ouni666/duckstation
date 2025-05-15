@@ -1,0 +1,8 @@
+PKGNAME=plutosvg
+PKGSEC=graphics
+PKGDEP=""
+BUILDDEP=""
+PKGDES="Tiny SVG rendering library in C"
+
+ABHOST=noarch
+NOSTATIC=0

@@ -1,0 +1,6 @@
+PKGNAME=soundtouch
+PKGSEC=libs
+PKGDEP="glibc"
+PKGDES="An audio processing library"
+
+NOSTATIC=0

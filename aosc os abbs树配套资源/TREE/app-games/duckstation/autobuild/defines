@@ -1,0 +1,9 @@
+PKGNAME="duckstation"
+PKGSEC="games"
+PKGDEP=""
+BUILDDEP="cpuinfo sdl3 plutosvg discord-rpc libzip extra-cmake-modules qt-6 soundtouch shaderc spirv-cross"
+PKGDES="Fast PlayStation 1 emulator"
+
+
+CMAKE_AFTER="-DCMAKE_BUILD_TYPE=Release \
+                            -DCMAKE_INTERPROCEDURAL_OPTIMIZATION=ON"

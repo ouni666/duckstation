@@ -1,0 +1,7 @@
+PKGNAME=spirv-cross
+PKGSEC=lib
+PKGDEP=""
+BUILDDEP="spirv-tools glslang"
+PKGDES="A tool designed for parsing and converting SPIR-V to other shader languages"
+
+CMAKE_AFTER="-DSPIRV_CROSS_SHARED:BOOL=ON"

@@ -1,0 +1,6 @@
+PKGNAME="cpuinfo"
+PKGSEC="lib"
+PKGDEP=""
+BUILDDEP="cmake"
+PKGDES="This is a description of the cpuinfo package"
+NOSTATIC=0
