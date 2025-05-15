@@ -26,5 +26,5 @@
 
 11.加入spirv-cross依赖    注意aosc系统构建要求（_下划线改-）   https://github.com/KhronosGroup/SPIRV-Cross  需要加入参数生成配置文件-DSPIRV_CROSS_SHARED:BOOL=ON
 
-
+目前进度： 报错文件 src/common/types.h  架构文件 暂时没法解决
 
